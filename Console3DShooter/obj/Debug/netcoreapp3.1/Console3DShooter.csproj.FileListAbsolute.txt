@@ -1,0 +1,13 @@
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\bin\Debug\netcoreapp3.1\Console3DShooter.exe
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\bin\Debug\netcoreapp3.1\Console3DShooter.deps.json
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\bin\Debug\netcoreapp3.1\Console3DShooter.runtimeconfig.json
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\bin\Debug\netcoreapp3.1\Console3DShooter.runtimeconfig.dev.json
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\bin\Debug\netcoreapp3.1\Console3DShooter.dll
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\bin\Debug\netcoreapp3.1\Console3DShooter.pdb
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.csprojAssemblyReference.cache
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.AssemblyInfoInputs.cache
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.AssemblyInfo.cs
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.csproj.CoreCompileInputs.cache
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.dll
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.pdb
+D:\Projects\Console3DShooter\Console3DShooter\Console3DShooter\obj\Debug\netcoreapp3.1\Console3DShooter.genruntimeconfig.cache
